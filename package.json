@@ -1,0 +1,10 @@
+{
+  "name": "datadash-playwright",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node scrape.js"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}
